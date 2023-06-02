@@ -1,0 +1,15 @@
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\bin\Debug\net6.0\NContribuintes.exe
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\bin\Debug\net6.0\NContribuintes.deps.json
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\bin\Debug\net6.0\NContribuintes.runtimeconfig.json
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\bin\Debug\net6.0\NContribuintes.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\bin\Debug\net6.0\NContribuintes.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.csproj.AssemblyReference.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.AssemblyInfoInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.AssemblyInfo.cs
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.csproj.CoreCompileInputs.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\refint\NContribuintes.dll
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.pdb
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\NContribuintes.genruntimeconfig.cache
+C:\Users\gilmar\Desktop\CSharpCompleto\projectos\NContribuintes\NContribuintes\obj\Debug\net6.0\ref\NContribuintes.dll
